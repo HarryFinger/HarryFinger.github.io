@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url(https://abc-decor.com/img/gallery/70/thumbs/thumb_l_33050.jpg);
+}
+
+.container {
+    width: 800px;
+    min-height: 500px;
+    border: 10px solid white;
+    margin: auto;
+    margin-top: 100px;
+    background: whitesmoke;
+}
+
+.textcontainer {
+    text-align: center;
+    width: 600px;
+    min-height: 400px;
+    color: #726b55;
+    margin: auto;
+    margin-top: 100px;
+    font-size: 40px;
+}
